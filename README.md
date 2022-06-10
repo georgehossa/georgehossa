@@ -3,4 +3,3 @@
 - 🌱 I’m currently learning [React Native](https://reactnative.dev/) and [TypeScript](https://www.typescriptlang.org/)
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/jorgehossa/)
 - ⚡ Fun fact: I'm a huge fan of Star Wars
-
